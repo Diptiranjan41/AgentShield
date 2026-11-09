@@ -1,0 +1,10 @@
+com\agentshield\identity\RegisterAgentRequest.class
+com\agentshield\identity\Agent.class
+com\agentshield\identity\AgentResponse.class
+com\agentshield\identity\AgentStatus.class
+com\agentshield\AgentshieldApplication.class
+com\agentshield\identity\AgentController.class
+com\agentshield\identity\AgentRepository.class
+com\agentshield\identity\AgentService.class
+com\agentshield\identity\DuplicateAgentException.class
+com\agentshield\security\SecurityConfig.class

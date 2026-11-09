@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.agentshield.identity.AgentRegistrationIT
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 55.54 s -- in com.agentshield.identity.AgentRegistrationIT
